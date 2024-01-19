@@ -1,0 +1,18 @@
+.inputbox{
+    width: 20rem;
+    height: 2rem;
+    border-top: 10%;
+    margin-top: 10%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+
+
+.addButton{
+    width:8rem;
+    height:40px;    
+    border-radius: 0.8rem;
+    font-size: large;
+    font-weight: 700;
+}

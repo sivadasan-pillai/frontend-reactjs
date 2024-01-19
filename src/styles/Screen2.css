@@ -1,0 +1,28 @@
+/* Screen2.css */
+
+.screen2-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.bordered-table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    backgroundColor: rgb(246, 163, 140);
+}
+
+.bordered-table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    
+}

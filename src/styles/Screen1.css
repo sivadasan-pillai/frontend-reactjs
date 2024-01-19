@@ -1,0 +1,12 @@
+.screen1-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.screen1-container label,
+.screen1-container button {
+    margin-bottom: 10px; 
+}
